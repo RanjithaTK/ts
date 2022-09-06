@@ -15,3 +15,4 @@ class A {
     return `${this.a} - ${this.b} -${this.c} -${this.d}`
   }
 }
+//this is a ts file
