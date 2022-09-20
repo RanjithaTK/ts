@@ -17,4 +17,3 @@ class A {
 }
 //this is a ts file
 //this is a ts file
-//this is a ts file
